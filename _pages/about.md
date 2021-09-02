@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi👋! I am a third year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
-I am working on natural language processing and machine learning, and I am funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
+I am working on natural language processing and machine learning, 
+I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group,
+and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
 My research mostly focuses on active learning, low-resource learning, uncertainty estimation, interpretability and language modeling, but I'm fascinated by other topics as well! 
 
