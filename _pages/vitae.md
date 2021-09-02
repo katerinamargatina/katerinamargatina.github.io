@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /vitae/
+permalink: /
 title: vitae
 description: 
 nav: true
