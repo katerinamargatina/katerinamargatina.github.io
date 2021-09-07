@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi👋! I am a third year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
+Hi👋! I am a second year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
 I am working on natural language processing and machine learning, 
 I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group,
 and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
