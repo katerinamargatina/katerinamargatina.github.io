@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-My most updated curriculum vitae can be found [here](/assets/pdf/updated_cv.pdf).
+My most updated curriculum vitae can be found [here](/assets/pdf/Katerina_Margatina_CV.pdf).
