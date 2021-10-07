@@ -25,8 +25,8 @@ My research mostly focuses on active learning, low-resource learning, uncertaint
 -- but I'm fascinated by other topics as well! 
 
 
-Currently, I live in beautiful Copenhagen. I am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at the [CoAStaL](https://coastalcph.github.io/) group. 
-I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) on learning from disagreement and fairness.
+Currently, I live in beautiful Copenhagen🇩🇰, as I am doing a research visit at the [CoAStaL](https://coastalcph.github.io/) group. 
+I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement, privacy and fairness.
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
@@ -37,7 +37,7 @@ under the supervision of
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering️ (even though I am not good at it)! 
 I am generally looking forward to the post-Covid era, when we will be able to enjoy travelling again.🦋
 
-[//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by )
+[//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by ....am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at )
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
