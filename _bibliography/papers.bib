@@ -3,27 +3,34 @@
 
 @string{aps = {American Physical Society,}}
 
-
+%--------------------------------------------------------------------------
+% 2021
+%--------------------------------------------------------------------------
 @inproceedings{cal,
 abbr={EMNLP},
+award={✨ Oral ✨},
       title={Active Learning by Acquiring Contrastive Examples},
       author={K. Margatina and G. Vernikos
        and L. Barrault and N. Aletras},
       year={2021},
-      booktitle = "EMNLP",
+      booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing",
       selected={true},
       code={https://github.com/mourga/contrastive-active-learning},
-      arxiv={2109.03764}
+      arxiv={2109.03764},
+      tldr={https://twitter.com/katemargatina/status/1437393852227276801?s=20},
+      abstract={Common acquisition functions for active learning use either uncertainty or diversity sampling, aiming to select difficult and diverse data points from the pool of unlabeled data, respectively. In this work, leveraging the best of both worlds, we propose an acquisition function that opts for selecting \textit{contrastive examples}, i.e. data points that are similar in the model feature space and yet the model outputs maximally different predictive likelihoods. We compare our approach, CAL (Contrastive Active Learning), with a diverse set of acquisition functions in four natural language understanding tasks and seven datasets. Our experiments show that CAL performs consistently better or equal than the best performing baseline across all tasks, on both in-domain and out-of-domain data. We also conduct an extensive ablation study of our method and we further analyze all actively acquired datasets showing that CAL achieves a better trade-off between uncertainty and diversity compared to other strategies.}
 }
 @inproceedings{frustratingly,
 abbr={EMNLP},
       title={Frustratingly Simple Alternatives to Masked Language Modeling},
       author={A. Yamaguchi and G. Chrysostomou and K. Margatina and N. Aletras},
       year={2021},
-      booktitle = "EMNLP",
+      booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing",
       selected={true},
       code={https://github.com/gucci-j/light-transformer-emnlp2021},
-      arxiv={2109.01819}
+      arxiv={2109.01819},
+      tldr={https://twitter.com/nikaletras/status/1435206594623574019?s=20},
+      abstract={Masked language modeling (MLM), a self-supervised pretraining objective, is widely used in natural language processing for learning text representations. MLM trains a model to predict a random sample of input tokens that have been replaced by a [MASK] placeholder in a multi-class setting over the entire vocabulary. When pretraining, it is common to use alongside MLM other auxiliary objectives on the token or sequence level to improve downstream performance (e.g. next sentence prediction). However, no previous work so far has attempted in examining whether other simpler linguistically intuitive or not objectives can be used standalone as main pretraining objectives. In this paper, we explore five simple pretraining objectives based on token-level classification tasks as replacements of MLM. Empirical results on GLUE and SQuAD show that our proposed methods achieve comparable or better performance to MLM using a BERT-BASE architecture. We further validate our methods using smaller models, showing that pretraining a model with 41% of the BERT-BASE's parameters, BERT-MEDIUM results in only a 1% drop in GLUE scores with our best objective.}
 }
 @inproceedings{margatina2021bayesian,
       title={Bayesian Active Learning with Pretrained Language Models},
@@ -34,60 +41,79 @@ abbr={EMNLP},
       primaryClass={cs.CL},
       booktitle = "ArXiv",
       selected={true},
-      arxiv={2104.08320}
+      arxiv={2104.08320},
+      abstract={Active Learning (AL) is a method to iteratively select data for annotation from a pool of unlabeled data, aiming to achieve better model performance than random selection. Previous AL approaches in Natural Language Processing (NLP) have been limited to either task-specific models that are trained from scratch at each iteration using only the labeled data at hand or using off-the-shelf pretrained language models (LMs) that are not adapted effectively to the downstream task. In this paper, we address these limitations by introducing BALM; Bayesian Active Learning with pretrained language Models. We first propose to adapt the pretrained LM to the downstream task by continuing training with all the available unlabeled data and then use it for AL. We also suggest a simple yet effective fine-tuning method to ensure that the adapted LM is properly trained in both low and high resource scenarios during AL. We finally apply Monte Carlo dropout to the downstream model to obtain well-calibrated confidence scores for data selection with uncertainty sampling. Our experiments in five standard natural language understanding tasks demonstrate that BALM provides substantial data efficiency improvements compared to various combinations of acquisition functions, models and fine-tuning methods proposed in recent AL literature.}
 }
 
+%--------------------------------------------------------------------------
+% 2020
+%--------------------------------------------------------------------------
 @inproceedings{vernikos-etal-2020-domain,
-abbr={EMNLP},
+    abbr = {EMNLP},
     title = "{D}omain {A}dversarial {F}ine-{T}uning as an {E}ffective {R}egularizer",
     author = "G. Vernikos, and
       K. Margatina, and
       A. Chronopoulou,  and
       I. Androutsopoulos",
-    booktitle = "EMNLP (Findings)",
+    booktitle = "Findings of the Association for Computational Linguistics (EMNLP)",
     year = "2020",
-    paper ={https://www.aclweb.org/anthology/2020.findings-emnlp.278},
+    html = "https://www.aclweb.org/anthology/2020.findings-emnlp.278",
+    pdf = "https://aclanthology.org/2020.findings-emnlp.278.pdf",
     pages = "3103--3112",
-    code={https://github.com/GeorgeVern/AFTERV1.0},
+    code = {https://github.com/GeorgeVern/AFTERV1.0},
     abstract = "In Natural Language Processing (NLP), pretrained language models (LMs) that are transferred to downstream tasks have been recently shown to achieve state-of-the-art results. However, standard fine-tuning can degrade the general-domain representations captured during pretraining. To address this issue, we introduce a new regularization technique, AFTER; domain Adversarial Fine-Tuning as an Effective Regularizer. Specifically, we complement the task-specific loss used during fine-tuning with an adversarial objective. This additional loss term is related to an adversarial classifier, that aims to discriminate between in-domain and out-of-domain text representations. Indomain refers to the labeled dataset of the task at hand while out-of-domain refers to unlabeled data from a different domain. Intuitively, the adversarial classifier acts as a regularize which prevents the model from overfitting to the task-specific domain. Empirical results on various natural language understanding tasks show that AFTER leads to improved performance compared to standard fine-tuning.",
+    tldr= "https://twitter.com/gvernikos/status/1311010294735482880?s=20"
 }
 
-@inproceedings{margatina-etal-2019-attention,
-abbr={ACL},
-    title = "Attention-based Conditioning Methods for External Knowledge Integration",
-    author = "K. Margatina,  and
-      C. Baziotis,  and
-      A. Potamianos",
-    booktitle = "ACL",
-    year = "2019",
-    address = "Florence, Italy",
-    paper = {https://www.aclweb.org/anthology/P19-1385},
-    pages = "3944--3951",
-    code={https://github.com/mourga/affective-attention},
-    poster={https://drive.google.com/file/d/1Z0xZ_y_oJKpeeXZ_8z2-sOQJZIQdkagZ/view},
-    abstract = "In this paper, we present a novel approach for incorporating external knowledge in Recurrent Neural Networks (RNNs). We propose the integration of lexicon features into the self-attention mechanism of RNN-based architectures. This form of conditioning on the attention distribution, enforces the contribution of the most salient words for the task at hand. We introduce three methods, namely attentional concatenation, feature-based gating and affine transformation. Experiments on six benchmark datasets show the effectiveness of our methods. Attentional feature-based gating yields consistent performance improvement across tasks. Our approach is implemented as a simple add-on module for RNN-based models with minimal computational overhead and can be adapted to any deep neural architecture.",
-}
-
-@InProceedings{W18-6209,
-  author = 	"A.* Chronopoulou,
-		and K.* Margatina,
-		and C. Baziotis,
-		and A. Potamianos",
-  title = 	"NTUA-SLP at IEST 2018: Ensemble of Neural Transfer Methods for Implicit Emotion Classification",
-  booktitle = 	"Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)",
-  year = 	"2018",
-  paper = 	"http://aclweb.org/anthology/W18-6209",
-  code={https://github.com/alexandra-chron/ntua-slp-wassa-iest2018},
-  slides={https://drive.google.com/file/d/1hyUx69rVEzyFuBeZPtVWz8_JSb83d7jJ/view}
-}
-
+%--------------------------------------------------------------------------
+% 2019
+%--------------------------------------------------------------------------
 @article{thesis,
-abbr={THESIS},
+  abbr = {THESIS},
   author = 	"Margatina, Katerina",
   title = 	{Transfer Learning and Attention-based Conditioning Methods for Natural Language Processing},
   journaltitle = 	"Thesis, NTUA",
   year = 	"2019",
   date={2019},
-  paper = 	"http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf",
-  slides={https://drive.google.com/open?id=1CkV6TfdObiQfozh7a4dH_pmJFgxvr2BH}
+  pdf = 	"http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf",
+  slides = {https://drive.google.com/open?id=1CkV6TfdObiQfozh7a4dH_pmJFgxvr2BH}
 }
+
+@inproceedings{margatina-etal-2019-attention,
+    abbr = {ACL},
+    title = "Attention-based Conditioning Methods for External Knowledge Integration",
+    author = "K. Margatina,  and
+      C. Baziotis,  and
+      A. Potamianos",
+    booktitle = "Proceedings of the Annual Meeting of the Association for Computational Linguistics",
+    year = "2019",
+    address = "Florence, Italy",
+    html = {https://www.aclweb.org/anthology/P19-1385},
+    pdf = "https://aclanthology.org/P19-1385.pdf",
+    pages = "3944--3951",
+    code = {https://github.com/mourga/affective-attention},
+    poster = {https://drive.google.com/file/d/1Z0xZ_y_oJKpeeXZ_8z2-sOQJZIQdkagZ/view},
+    abstract = "In this paper, we present a novel approach for incorporating external knowledge in Recurrent Neural Networks (RNNs). We propose the integration of lexicon features into the self-attention mechanism of RNN-based architectures. This form of conditioning on the attention distribution, enforces the contribution of the most salient words for the task at hand. We introduce three methods, namely attentional concatenation, feature-based gating and affine transformation. Experiments on six benchmark datasets show the effectiveness of our methods. Attentional feature-based gating yields consistent performance improvement across tasks. Our approach is implemented as a simple add-on module for RNN-based models with minimal computational overhead and can be adapted to any deep neural architecture.",
+}
+
+
+
+%--------------------------------------------------------------------------
+% 2018
+%--------------------------------------------------------------------------
+@inproceedings{W18-6209,
+  abbr = {Workshop-EMNLP},
+  author = 	"A.* Chronopoulou,
+		and K.* Margatina,
+		and C. Baziotis,
+		and A. Potamianos",
+  title = 	"NTUA-SLP at IEST 2018: Ensemble of Neural Transfer Methods for Implicit Emotion Classification",
+  booktitle = 	"Proceedings of the 9th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)",
+  year = 	"2018",
+  pdf = 	"https://aclanthology.org/W18-6209.pdf",
+  html = 	"http://aclweb.org/anthology/W18-6209",
+  code={https://github.com/alexandra-chron/ntua-slp-wassa-iest2018},
+  slides={https://drive.google.com/file/d/1hyUx69rVEzyFuBeZPtVWz8_JSb83d7jJ/view},
+  abstract = {In this paper we present our approach to tackle the Implicit Emotion Shared Task (IEST) organized as part of WASSA 2018 at EMNLP 2018. Given a tweet, from which a certain word has been removed, we are asked to predict the emotion of the missing word. In this work, we experiment with neural Transfer Learning (TL) methods. Our models are based on LSTM networks, augmented with a self-attention mechanism. We use the weights of various pretrained models, for initializing specific layers of our networks. We leverage a big collection of unlabeled Twitter messages, for pretraining word2vec word embeddings and a set of diverse language models. Moreover, we utilize a sentiment analysis dataset for pretraining a model, which encodes emotion related information. The submitted model consists of an ensemble of the aforementioned TL models. Our team ranked 3rd out of 30 participants, achieving an F1 score of 0.703.},
+}
+

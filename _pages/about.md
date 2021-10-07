@@ -16,24 +16,28 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi👋! I am a second year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
+Hi👋! I am a third (final) year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
 I am working on natural language processing and machine learning, 
 I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group,
 and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
-My research mostly focuses on active learning, low-resource learning, uncertainty estimation, interpretability and language modeling, but I'm fascinated by other topics as well! 
+My research mostly focuses on active learning, low-resource learning, uncertainty estimation, robustness and language modeling 
+-- but I'm fascinated by other topics as well! 
 
 
-Currently, I live in beautiful Copenhagen. I am a visiting PhD student at the University of Copenhagen🇩🇰 and specifically at the [CoAStaL](https://coastalcph.github.io/) group. 
+Currently, I live in beautiful Copenhagen. I am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at the [CoAStaL](https://coastalcph.github.io/) group. 
 I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) on learning from disagreement and fairness.
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
-In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on _transfer  learning  and  attention-based  conditioning  methods  for natural language processing_.
-I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
+In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
+under the supervision of 
+[Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
 
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering️ (even though I am not good at it)! 
 I am generally looking forward to the post-Covid era, when we will be able to enjoy travelling again.🦋
+
+[//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by )
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
