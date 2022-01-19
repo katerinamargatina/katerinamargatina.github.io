@@ -26,7 +26,7 @@ My research mostly focuses on active learning, low-resource learning, uncertaint
 
 
 Currently, I live in beautiful Copenhagen🇩🇰, as I am doing a research visit at the [CoAStaL](https://coastalcph.github.io/) group. 
-I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement, privacy and fairness.
+I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement, privacy and fairness!
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
