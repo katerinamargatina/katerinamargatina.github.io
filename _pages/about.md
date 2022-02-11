@@ -25,8 +25,8 @@ My research mostly focuses on active learning, low-resource learning, uncertaint
 -- but I'm fascinated by other topics as well! 
 
 
-Currently, I live in beautiful Copenhagen🇩🇰, as I am doing a research visit at the [CoAStaL](https://coastalcph.github.io/) group. 
-I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement, privacy and fairness!
+Until very recently, I lived in beautiful Copenhagen🇩🇰, where I spent 8 amazing months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
+I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP!
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
@@ -34,7 +34,7 @@ In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/1
 under the supervision of 
 [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
 
-In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering️ (even though I am not good at it)! 
+In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering (even though I am not good at it)! 
 I am generally looking forward to the post-Covid era, when we will be able to enjoy travelling again.🦋
 
 [//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by ....am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at )
