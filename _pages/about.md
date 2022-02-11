@@ -33,13 +33,13 @@ Prior, I obtained my diploma on [Electrical and Computer Engineering](https://ww
 at the National Technical University of Athens (NTUA)🇬🇷.
 
 [//]: # (In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
-under the supervision of [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).)
+[//]: # under the supervision of [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).)
 
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering (even though I am not good at it)! 
 
 [//]: # I am generally looking forward to the post-Covid era, when we will be able to enjoy travelling again.🦋
 
-I've come to realise that it is very important to me that my research has a positive impact in the real world, so feel free to reach out if you want to collaborate on cool projects that aim to develop language technologies for social good.🦋
+I've come to realise that it is important to me that my research has a positive impact in the real world, so feel free to reach out if you want to collaborate on cool projects that aim to develop language technologies for social good.🦋
 
 
 [//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by ....am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at )
