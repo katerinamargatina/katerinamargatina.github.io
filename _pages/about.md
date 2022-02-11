@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi👋! I am a third (final) year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
-I am working on natural language processing and machine learning, 
+Hi👋! I am a third (final) year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield🇬🇧. 
+I am working on natural language processing & machine learning, 
 I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group,
 and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
@@ -29,7 +29,9 @@ Until very recently, I lived in beautiful Copenhagen🇩🇰, where I spent 8 am
 I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP!
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
-Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
+Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) 
+[//]: (integrated BEng & MEng) 
+at the National Technical University of Athens (NTUA)🇬🇷.
 In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
 under the supervision of 
 [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
