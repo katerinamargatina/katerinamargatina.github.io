@@ -21,7 +21,7 @@ I am working on natural language processing & machine learning,
 I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group,
 and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
-My research mostly focuses on active learning, low-resource learning, uncertainty estimation, robustness and language modeling 
+My research mostly focuses on active learning, data collection, evaluation & benchmarking, uncertainty estimation, robustness and language modeling 
 -- but I'm fascinated by other topics as well! 
 
 
@@ -29,7 +29,7 @@ Until very recently, I lived in beautiful Copenhagen, where I spent 8 amazing mo
 I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP!
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
-Previously, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en)
+Previously, I obtained my diploma on [Electrical & Computer Engineering](https://www.ece.ntua.gr/en)
 at the National Technical University of Athens (NTUA).
 
 [//]: # (In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
