@@ -32,9 +32,8 @@ In 2019, I was working as a Machine Learning Engineer at the awesome Greek start
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en)
 at the National Technical University of Athens (NTUA)🇬🇷.
 
-[//]: # In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
-under the supervision of 
-[Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
+[//]: # (In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
+under the supervision of [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).)
 
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering (even though I am not good at it)! 
 
