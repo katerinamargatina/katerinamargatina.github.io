@@ -4,4 +4,4 @@ date: 2022-02-14 07:59:00-0400
 inline: true
 ---
 
-The first [Call for Papers](https://dadcworkshop.github.io/call-for-papers.html) for [DADC](https://dadcworkshop.github.io/), the First Workshop on Dynamic Adversarial Data Collection (@NAACL 2022 in Seattle) is out🌹. Super excited to co-organise DADC with an amazing group of people! Stay tuned!👀 
+The [Call for Papers](https://dadcworkshop.github.io/call-for-papers.html) for the [First Workshop on Dynamic Adversarial Data Collection]((https://dadcworkshop.github.io/)) (DADC@NAACL 2022, Seattle) is out🌹. Super excited to co-organise DADC with an amazing group of people! Stay tuned!👀 
