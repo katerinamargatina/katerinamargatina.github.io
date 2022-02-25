@@ -21,9 +21,7 @@ I am working on natural language processing & machine learning and
 I am a member of the [SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en) group.
 My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
 My research mostly focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
--- but I'm fascinated by other topics as well! 
-
-[//]: # and my Ph.D. is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
+-- but I'm fascinated by other topics as well!
 
 Until very recently, I lived in beautiful Copenhagen, where I spent 8 amazing months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
 I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP!
