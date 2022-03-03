@@ -4,6 +4,22 @@
 @string{aps = {American Physical Society,}}
 
 %--------------------------------------------------------------------------
+% 2022
+%--------------------------------------------------------------------------
+@inproceedings{ex-balm,
+abbr={ACL},
+      title={On the Importance of Effectively Adapting Pretrained Language Models for Active Learning},
+      author={K. Margatina
+       and L. Barrault and N. Aletras},
+      year={2022},
+      booktitle = "Proceedings of the Annual Meeting of the Association for Computational Linguistics",
+      selected={true},
+      code={https://github.com/mourga/contrastive-active-learning},
+      arxiv={2104.08320},
+      abstract={Recent Active Learning (AL) approaches in Natural Language Processing (NLP) proposed using off-the-shelf pretrained language models (LMs). In this paper, we argue that these LMs are not adapted effectively to the downstream task during AL and we explore ways to address this issue. We suggest to first adapt the pretrained LM to the target task by continuing training with all the available unlabeled data and then use it for AL. We also propose a simple yet effective fine-tuning method to ensure that the adapted LM is properly trained in both low and high resource scenarios during AL. Our experiments demonstrate that our approach provides substantial data efficiency improvements compared to the standard fine-tuning approach, suggesting that a poor training strategy can be catastrophic for AL.}
+}
+
+%--------------------------------------------------------------------------
 % 2021
 %--------------------------------------------------------------------------
 @inproceedings{cal,
