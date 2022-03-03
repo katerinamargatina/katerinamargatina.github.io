@@ -57,18 +57,6 @@ abbr={EMNLP},
       tldr={https://twitter.com/nikaletras/status/1435206594623574019?s=20},
       abstract={Masked language modeling (MLM), a self-supervised pretraining objective, is widely used in natural language processing for learning text representations. MLM trains a model to predict a random sample of input tokens that have been replaced by a [MASK] placeholder in a multi-class setting over the entire vocabulary. When pretraining, it is common to use alongside MLM other auxiliary objectives on the token or sequence level to improve downstream performance (e.g. next sentence prediction). However, no previous work so far has attempted in examining whether other simpler linguistically intuitive or not objectives can be used standalone as main pretraining objectives. In this paper, we explore five simple pretraining objectives based on token-level classification tasks as replacements of MLM. Empirical results on GLUE and SQuAD show that our proposed methods achieve comparable or better performance to MLM using a BERT-BASE architecture. We further validate our methods using smaller models, showing that pretraining a model with 41% of the BERT-BASE's parameters, BERT-MEDIUM results in only a 1% drop in GLUE scores with our best objective.}
 }
-@inproceedings{margatina2021bayesian,
-      title={Bayesian Active Learning with Pretrained Language Models},
-      author={K. Margatina and L. Barrault and N. Aletras},
-      year={2021},
-      eprint={2104.08320},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      booktitle = "ArXiv",
-      selected={true},
-      arxiv={2104.08320},
-      abstract={Active Learning (AL) is a method to iteratively select data for annotation from a pool of unlabeled data, aiming to achieve better model performance than random selection. Previous AL approaches in Natural Language Processing (NLP) have been limited to either task-specific models that are trained from scratch at each iteration using only the labeled data at hand or using off-the-shelf pretrained language models (LMs) that are not adapted effectively to the downstream task. In this paper, we address these limitations by introducing BALM; Bayesian Active Learning with pretrained language Models. We first propose to adapt the pretrained LM to the downstream task by continuing training with all the available unlabeled data and then use it for AL. We also suggest a simple yet effective fine-tuning method to ensure that the adapted LM is properly trained in both low and high resource scenarios during AL. We finally apply Monte Carlo dropout to the downstream model to obtain well-calibrated confidence scores for data selection with uncertainty sampling. Our experiments in five standard natural language understanding tasks demonstrate that BALM provides substantial data efficiency improvements compared to various combinations of acquisition functions, models and fine-tuning methods proposed in recent AL literature.}
-}
 
 %--------------------------------------------------------------------------
 % 2020
