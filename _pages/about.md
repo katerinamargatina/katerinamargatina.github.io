@@ -7,7 +7,7 @@ description: Short Bio.
 
 profile:
   align: right
-  image: my_pic.jpg
+  image: small_photo_id.jpg
   address: >
     <p>Sheffield, Dec. 2019</p>
 
