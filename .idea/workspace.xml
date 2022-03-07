@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/dadc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/dadc.md" afterDir="false" />
-    </list>
+    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,14 +124,7 @@
       <workItem from="1645795689268" duration="298000" />
       <workItem from="1646315715509" duration="5768000" />
       <workItem from="1646400163360" duration="1124000" />
-      <workItem from="1646673574527" duration="1936000" />
-    </task>
-    <task id="LOCAL-00005" summary="update">
-      <created>1630583839090</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1630583839090</updated>
+      <workItem from="1646673574527" duration="2125000" />
     </task>
     <task id="LOCAL-00006" summary="update">
       <created>1630584190599</created>
@@ -472,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646675130542</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="update">
+      <created>1646678799685</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1646678799685</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
