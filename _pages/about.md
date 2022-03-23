@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
-My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
-My research mostly focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
+I am a 3rd year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
+My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/) and I am  funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
+My research focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
 Until very recently, I lived in beautiful Copenhagen, where I spent 8 amazing months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
