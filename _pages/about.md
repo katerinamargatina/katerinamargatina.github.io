@@ -8,8 +8,8 @@ description: Short Bio.
 profile:
   align: right
   image: my_pic.jpg
-  address: >
-    <p>Sheffield, Dec. 2019</p>
+  # address: >
+  #  <p>Sheffield, Dec. 2019</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
