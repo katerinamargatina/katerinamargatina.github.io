@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,14 +131,7 @@
       <workItem from="1646673574527" duration="7396000" />
       <workItem from="1646757263066" duration="1347000" />
       <workItem from="1646816798869" duration="11000" />
-      <workItem from="1647365987028" duration="5119000" />
-    </task>
-    <task id="LOCAL-00024" summary="update">
-      <created>1642600409685</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1642600409685</updated>
+      <workItem from="1647365987028" duration="8501000" />
     </task>
     <task id="LOCAL-00025" summary="update">
       <created>1644591203563</created>
@@ -475,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647870909289</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="update">
+      <created>1647871497356</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1647871497356</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
