@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/acl22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/acl22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/emnlp21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/emnlp21.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,14 +131,7 @@
       <workItem from="1646757263066" duration="1347000" />
       <workItem from="1646816798869" duration="11000" />
       <workItem from="1647365987028" duration="8501000" />
-      <workItem from="1648034824026" duration="1301000" />
-    </task>
-    <task id="LOCAL-00026" summary="update">
-      <created>1644591803893</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1644591803893</updated>
+      <workItem from="1648034824026" duration="1654000" />
     </task>
     <task id="LOCAL-00027" summary="update">
       <created>1644592368766</created>
@@ -481,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648035125083</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="update">
+      <created>1648036275360</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1648036275360</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="ToolWindowManager">
