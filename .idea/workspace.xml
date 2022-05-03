@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/_news/aws_internship.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +135,7 @@
       <workItem from="1649775561326" duration="425000" />
       <workItem from="1649858409585" duration="524000" />
       <workItem from="1651019848279" duration="1159000" />
-      <workItem from="1651591838052" duration="308000" />
-    </task>
-    <task id="LOCAL-00033" summary="update">
-      <created>1644596636092</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1644596636092</updated>
+      <workItem from="1651591838052" duration="605000" />
     </task>
     <task id="LOCAL-00034" summary="update">
       <created>1644873317022</created>
@@ -481,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648479950609</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="update">
+      <created>1651592203891</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1651592203892</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="ToolWindowManager">

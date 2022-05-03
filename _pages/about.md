@@ -22,6 +22,8 @@ and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.c
 My research focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
+Currently, I am an Applied Scientist Intern at Amazon Web Services (AWS) in NYC, working with the AI human language technology group.
+
 Until very recently, I lived in beautiful Copenhagen, where I spent 8 months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
 I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
 
