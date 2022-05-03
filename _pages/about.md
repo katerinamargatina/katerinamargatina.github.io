@@ -22,7 +22,7 @@ and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.c
 My research focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
-Currently, I am an Applied Scientist Intern at Amazon Web Services (AWS) in NYC, working with the AI human language technology group.
+Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC, working with the AI human language technology group.
 
 Until very recently, I lived in beautiful Copenhagen, where I spent 8 months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
 I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
@@ -37,7 +37,7 @@ at the National Technical University of Athens (NTUA).
 
 [//]: # In my free time, I enjoy yoga, movies, and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering -- even though I am not good at it! 
 
-I've come to realise that it is important to me that my research has a positive impact in the real world, so feel free to reach out if you want to collaborate on cool projects that aim to develop language technologies for social good.🦋
+[//]: # I've come to realise that it is important to me that my research has a positive impact in the real world, so feel free to reach out if you want to collaborate on cool projects that aim to develop language technologies for social good.🦋
 
 
 [//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by ....am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at )
