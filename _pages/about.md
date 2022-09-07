@@ -26,7 +26,7 @@ Currently, I am Research Scientist Intern at [Meta AI](https://ai.facebook.com/)
 
 Last year, I visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
 
-Prior to starting my Ph. D., I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
+Prior to starting my Ph.D., I worked as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).
 
 
