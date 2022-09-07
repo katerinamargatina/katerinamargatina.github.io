@@ -16,20 +16,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
+I am a final year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
 My two amazing supervisors are [Nikos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/),
 and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My research focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
-Currently, I am an Applied Scientist Intern at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC, working with the AI human language technology group.
+Currently, I am Research Scientist Intern at [Meta AI](https://ai.facebook.com/) (FAIR Labs) in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC, working with the AI human language technology group.
 
-Until very recently, I lived in beautiful Copenhagen, where I spent 8 months visiting the [CoAStaL](https://coastalcph.github.io/) group. 
-I have the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
+Last year, I visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
 
-In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
-Previously, I obtained my diploma on [Electrical & Computer Engineering](https://www.ece.ntua.gr/en)
-at the National Technical University of Athens (NTUA).
+Prior to starting my Ph. D., I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
+In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).
 
 
 [//]: # (In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on transfer  learning  and  attention-based  conditioning  methods  for natural language processing, 
