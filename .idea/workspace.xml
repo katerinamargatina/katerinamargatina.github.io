@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/eacl23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +141,10 @@
       <workItem from="1652217941398" duration="2914000" />
       <workItem from="1653571851280" duration="3071000" />
       <workItem from="1662571435722" duration="2772000" />
+      <workItem from="1663928225063" duration="937000" />
+      <workItem from="1668794364529" duration="243000" />
+      <workItem from="1673964053346" duration="19000" />
+      <workItem from="1674831696270" duration="452000" />
     </task>
     <task id="LOCAL-00047" summary="update">
       <created>1646337511864</created>
