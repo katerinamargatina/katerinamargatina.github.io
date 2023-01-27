@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/dadc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/dadc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/emnlp21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/emnlp21.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +144,7 @@
       <workItem from="1663928225063" duration="937000" />
       <workItem from="1668794364529" duration="243000" />
       <workItem from="1673964053346" duration="19000" />
-      <workItem from="1674831696270" duration="1390000" />
-    </task>
-    <task id="LOCAL-00049" summary="update">
-      <created>1646400837542</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1646400837542</updated>
+      <workItem from="1674831696270" duration="1632000" />
     </task>
     <task id="LOCAL-00050" summary="update">
       <created>1646673619166</created>
@@ -487,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674833640550</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="update">
+      <created>1674833844762</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1674833844762</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="ToolWindowManager">
