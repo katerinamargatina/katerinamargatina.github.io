@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am a final year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
 My two amazing supervisors are [Nikos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/),
 and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
-My research focuses on active learning, data collection, evaluation & benchmarking, robustness and language modeling 
+My research focuses on active learning, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
 Currently, I am Research Scientist Intern at [Meta AI](https://ai.facebook.com/) (FAIR Labs) in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC, working with the AI human language technology group.
