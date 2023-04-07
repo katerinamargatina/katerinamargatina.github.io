@@ -5,5 +5,5 @@ inline: true
 ---
 
 2 papers accepted at [EACL 2023](https://2023.eacl.org/) (main conf.)!
-- [Dynamic Benchmarking of Masked Language Models on Temporal Concept Drift with Multiple Views]()
-- [Investigating Multi-source Active Learning for Natural Language Inference]()
+- [Dynamic Benchmarking of Masked Language Models on Temporal Concept Drift with Multiple Views](https://arxiv.org/abs/2302.12297)
+- [Investigating Multi-source Active Learning for Natural Language Inference](https://arxiv.org/abs/2302.06976)
