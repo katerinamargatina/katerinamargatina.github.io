@@ -17,14 +17,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a final year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
-My two amazing supervisors are [Nikos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/),
-and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
+My Ph.D. advisor is [Nikos Aletras](http://nikosaletras.com/) and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My research focuses on active learning, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
 During my PhD, I have interned at [Meta AI](https://ai.facebook.com/) (FAIR) in London with [Jane Dwivedi-Yu](https://janedwivedi.github.io/) and [Timo Schick](https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de) (2023), and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC with [Miguel Ballesteros](http://miguelballesteros.com/) and the AI human language technology group (2022). 
 
-I have also spent an amazing time visiting the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement and cross-cultural NLP.
+I have also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement and cross-cultural NLP.
 
 [comment]: <> (Currently, I am Research Scientist Intern at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR Labs&#41; in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services &#40;[AWS]&#40;https://aws.amazon.com/machine-learning/language/&#41;&#41; in NYC, working with the AI human language technology group.)
 
