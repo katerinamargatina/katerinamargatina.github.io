@@ -22,9 +22,13 @@ and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.c
 My research focuses on active learning, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
-Currently, I am Research Scientist Intern at [Meta AI](https://ai.facebook.com/) (FAIR Labs) in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC, working with the AI human language technology group.
+During my PhD, I have interned at [Meta AI](https://ai.facebook.com/) (FAIR) in London with [Jane Dwivedi-Yu](https://janedwivedi.github.io/) and [Timo Schick](https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de) (2023), and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC with [Miguel Ballesteros](http://miguelballesteros.com/) and the AI human language technology group (2022). 
 
-Last year, I visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.
+I have also spent an amazing time visiting the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on exciting projects on learning from disagreement and cross-cultural NLP.
+
+[comment]: <> (Currently, I am Research Scientist Intern at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR Labs&#41; in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services &#40;[AWS]&#40;https://aws.amazon.com/machine-learning/language/&#41;&#41; in NYC, working with the AI human language technology group.)
+
+[comment]: <> (Last year, I visited the [CoAStaL]&#40;https://coastalcph.github.io/&#41; group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard]&#40;https://anderssoegaard.github.io/&#41; and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.)
 
 Prior to starting my Ph.D., I worked as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).

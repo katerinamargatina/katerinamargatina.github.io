@@ -18,4 +18,6 @@ I have also experience in face-to-face teaching with students that needed extra 
 I am very happy to have been a co-supervisor of [Atsuki Yamaguchi](https://gucci-j.github.io/about/), along with [George Chrysostomou](https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl=en) and [Nikos Aletras](http://nikosaletras.com/). 
 Atsuki was a Master's student at the University of Sheffield and managed to publish his project on EMNLP 2021!🎊
 
+I am also delighted to have co-advised Ard Snijders along with [Douwe Kiela](https://douwekiela.github.io/), during his MSc thesis at the University of Amsterdam. Ard published his great paper [Investigating Multi-source Active Learning for Natural Language Inference](https://aclanthology.org/2023.eacl-main.160/) at EACL 2023! This one is particularly special to me, as it is the first paper I co-author as the last author.🤓
+
 

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update" />
+    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/_news/acl23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/acl22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/acl22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/aws_internship.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/aws_internship.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/bloomberg.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/bloomberg.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/nlphd_saarland.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/nlphd_saarland.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,14 +152,9 @@
       <workItem from="1668794364529" duration="243000" />
       <workItem from="1673964053346" duration="19000" />
       <workItem from="1674831696270" duration="3140000" />
-      <workItem from="1680861499554" duration="801000" />
-    </task>
-    <task id="LOCAL-00054" summary="update">
-      <created>1646678799685</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1646678799685</updated>
+      <workItem from="1680861499554" duration="1353000" />
+      <workItem from="1681194465545" duration="392000" />
+      <workItem from="1683651231572" duration="1722000" />
     </task>
     <task id="LOCAL-00055" summary="update">
       <created>1646679182186</created>
@@ -486,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680861877886</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="update">
+      <created>1680875683043</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1680875683045</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
