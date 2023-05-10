@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)), working on natural language processing & machine learning.
+I am a final year Ph.D. student at the [Computer Science](https://www.sheffield.ac.uk/dcs) department at the University of Sheffield, working on natural language processing & machine learning  ([SheffieldNLP](https://twitter.com/sheffieldnlp?lang=en)).
 My advisor is [Nikos Aletras](http://nikosaletras.com/) and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
 My research focuses on active learning, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
