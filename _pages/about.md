@@ -21,9 +21,9 @@ My advisor is [Nikos Aletras](http://nikosaletras.com/) and my work is funded by
 My research focuses on active learning, evaluation & benchmarking, robustness and language modeling 
 -- but I'm fascinated by other topics as well!
 
-During my Ph.D., I have interned at [Meta AI](https://ai.facebook.com/) (FAIR) in London with [Jane Dwivedi-Yu](https://janedwivedi.github.io/) and [Timo Schick](https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de) (2023), and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC with [Miguel Ballesteros](http://miguelballesteros.com/) and the AI human language technology group (2022). 
+During my Ph.D., I have interned at [Meta AI](https://ai.facebook.com/) (FAIR) in London with [Jane Dwivedi-Yu](https://janedwivedi.github.io/) and [Timo Schick](https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de) (2023), where I worked on active learning for in-context learning with LLMs, and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC with [Miguel Ballesteros](http://miguelballesteros.com/) and the AI human language technology group (2022), where I worked on [evaluation of temporal concept drift](https://aclanthology.org/2023.eacl-main.211/). 
 
-I have also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement and cross-cultural NLP.
+I have also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
 
 [comment]: <> (Currently, I am Research Scientist Intern at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR Labs&#41; in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services &#40;[AWS]&#40;https://aws.amazon.com/machine-learning/language/&#41;&#41; in NYC, working with the AI human language technology group.)
 
