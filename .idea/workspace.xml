@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-    </list>
+    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,14 +144,7 @@
       <workItem from="1680861499554" duration="1353000" />
       <workItem from="1681194465545" duration="392000" />
       <workItem from="1683651231572" duration="7558000" />
-      <workItem from="1684929176904" duration="5447000" />
-    </task>
-    <task id="LOCAL-00069" summary="update">
-      <created>1647808535773</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1647808535773</updated>
+      <workItem from="1684929176904" duration="5914000" />
     </task>
     <task id="LOCAL-00070" summary="update">
       <created>1647859755147</created>
@@ -491,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684946686794</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="update">
+      <created>1686138755238</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1686138755238</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="ToolWindowManager">
