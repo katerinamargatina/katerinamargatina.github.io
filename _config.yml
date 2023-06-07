@@ -156,7 +156,7 @@ scholar:
   last_name: Margatina
   first_name: [Katerina, K., K.*]
 
-  style: modern-language-association
+  style: apa
   locale: en
 
   source: /_bibliography/
