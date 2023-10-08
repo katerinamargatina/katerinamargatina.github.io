@@ -31,6 +31,7 @@ I have also visited the [CoAStaL](https://coastalcph.github.io/) group in the Un
 Prior to starting my Ph.D., I worked as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).
 
+[comment]: <> (link to my sheff interview https://www.sheffield.ac.uk/dcs/postgraduate/phd-profiles/katerina)
 
 [comment]: <> (During my Ph.D., I have interned at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR&#41; in London with [Jane Dwivedi-Yu]&#40;https://janedwivedi.github.io/&#41; and [Timo Schick]&#40;https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de&#41; &#40;2023&#41;, where I worked on [active learning for in-context learning with LLMs]&#40;https://arxiv.org/abs/2305.14264&#41;.)
 
