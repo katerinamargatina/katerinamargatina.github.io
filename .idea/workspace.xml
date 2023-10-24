@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update" />
+    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/Katerina_Margatina_CV.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,14 +151,7 @@
       <workItem from="1686559200923" duration="664000" />
       <workItem from="1686915735886" duration="374000" />
       <workItem from="1688939356353" duration="598000" />
-      <workItem from="1696781416304" duration="1052000" />
-    </task>
-    <task id="LOCAL-00074" summary="update">
-      <created>1648035125083</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1648035125083</updated>
+      <workItem from="1696781416304" duration="1695000" />
     </task>
     <task id="LOCAL-00075" summary="update">
       <created>1648036275360</created>
@@ -494,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696782006739</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="update">
+      <created>1696783454208</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1696783454208</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="ToolWindowManager">
