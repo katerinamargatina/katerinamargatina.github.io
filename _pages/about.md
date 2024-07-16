@@ -16,19 +16,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello world.🦋 I am a final year Ph.D. student at the CS dept. at the [University of Sheffield](https://www.sheffield.ac.uk/dcs), working on natural language processing & machine learning.
-My advisor is [Nikos Aletras](http://nikosaletras.com/) and my work is funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
-My research focuses on [active learning](https://arxiv.org/abs/2109.03764), [evaluation & benchmarking](https://arxiv.org/abs/2302.12297) and [in-context learning](https://arxiv.org/abs/2305.14264) -- but I'm fascinated by other topics as well!
+I am an Applied Scientist at Amazon in NYC, in the [AWS Bedrock](https://www.sheffield.ac.uk/dc) Agents team. My current research focuses on making LLM agents useful, reliable, and efficient. 
 
-During my Ph.D., I have interned at [Meta AI](https://ai.facebook.com/) (FAIR) in London with [Jane Dwivedi-Yu](https://janedwivedi.github.io/) and [Timo Schick](https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de) (2023), and at Amazon Web Services ([AWS](https://aws.amazon.com/machine-learning/language/)) in NYC with [Miguel Ballesteros](http://miguelballesteros.com/) and the Amazon Comprehend team (2022). 
+Previously, I studied my PhD on active learning algorithms for data efficient LLMs at the University Sheffield, under the supervision of [Nikos Aletras](http://nikosaletras.com/). 
+I spent time as a Research Scientist intern at Meta AI (FAIR) in London where I explored the intersection of [in-context and active learning methods for LLMs](https://aclanthology.org/2023.findings-emnlp.334/), and at AWS in NYC where I studied [temporal robustness of LLMs](https://aclanthology.org/2023.eacl-main.211/).
+During my PhD, I also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I worked on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
 
-I have also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen (2021), where I had the pleasure of working with [Anders Søgaard](https://anderssoegaard.github.io/) and the rest of the team on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
+[comment]: <> (Hello world.🦋 I am a final year Ph.D. student at the CS dept. at the [University of Sheffield]&#40;https://www.sheffield.ac.uk/dcs&#41;, working on natural language processing & machine learning.)
+
+[comment]: <> (My advisor is [Nikos Aletras]&#40;http://nikosaletras.com/&#41; and my work is funded by an [Amazon Alexa Fellowship]&#40;https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate&#41;.)
+
+[comment]: <> (My research focuses on [active learning]&#40;https://arxiv.org/abs/2109.03764&#41;, [evaluation & benchmarking]&#40;https://arxiv.org/abs/2302.12297&#41; and [in-context learning]&#40;https://arxiv.org/abs/2305.14264&#41; -- but I'm fascinated by other topics as well!)
+
+[comment]: <> (During my Ph.D., I have interned at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR&#41; in London with [Jane Dwivedi-Yu]&#40;https://janedwivedi.github.io/&#41; and [Timo Schick]&#40;https://scholar.google.de/citations?user=k8CKy5UAAAAJ&hl=de&#41; &#40;2023&#41;, and at Amazon Web Services &#40;[AWS]&#40;https://aws.amazon.com/machine-learning/language/&#41;&#41; in NYC with [Miguel Ballesteros]&#40;http://miguelballesteros.com/&#41; and the Amazon Comprehend team &#40;2022&#41;. )
+
+[comment]: <> (I have also visited the [CoAStaL]&#40;https://coastalcph.github.io/&#41; group in the University of Copenhagen &#40;2021&#41;, where I had the pleasure of working with [Anders Søgaard]&#40;https://anderssoegaard.github.io/&#41; and the rest of the team on learning from disagreement and [cross-cultural NLP]&#40;https://aclanthology.org/2022.acl-long.482/&#41;.)
 
 [comment]: <> (Currently, I am Research Scientist Intern at [Meta AI]&#40;https://ai.facebook.com/&#41; &#40;FAIR Labs&#41; in London. Earlier this year, I did an internship as an Applied Scientist at Amazon Web Services &#40;[AWS]&#40;https://aws.amazon.com/machine-learning/language/&#41;&#41; in NYC, working with the AI human language technology group.)
 
 [comment]: <> (Last year, I visited the [CoAStaL]&#40;https://coastalcph.github.io/&#41; group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard]&#40;https://anderssoegaard.github.io/&#41; and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.)
 
-Prior to starting my Ph.D., I worked as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
+Prior to starting my PhD, I worked as a Machine Learning Engineer at [DeepSea Technologies](https://www.deepsea.ai/). 
 In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).
 
 [comment]: <> (link to my sheff interview https://www.sheffield.ac.uk/dcs/postgraduate/phd-profiles/katerina)
