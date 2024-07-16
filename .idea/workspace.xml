@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/_news/job.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/prism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/eacl23.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/eacl23.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-    </list>
+    <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,14 +152,7 @@
       <workItem from="1696781416304" duration="2297000" />
       <workItem from="1698667946994" duration="3369000" />
       <workItem from="1701861951953" duration="158000" />
-      <workItem from="1720919130633" duration="1589000" />
-    </task>
-    <task id="LOCAL-00080" summary="update">
-      <created>1648470189205</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1648470189206</updated>
+      <workItem from="1720919130633" duration="1809000" />
     </task>
     <task id="LOCAL-00081" summary="update">
       <created>1648479950608</created>
@@ -505,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699005178616</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="update">
+      <created>1721101610711</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1721101610711</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="ToolWindowManager">
