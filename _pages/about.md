@@ -36,7 +36,7 @@ I also visited the [CoAStaL](https://coastalcph.github.io/) group in the Univers
 
 [comment]: <> (Last year, I visited the [CoAStaL]&#40;https://coastalcph.github.io/&#41; group in the University of Copenhagen, where I had the pleasure of working with [Anders Søgaard]&#40;https://anderssoegaard.github.io/&#41; and the rest of the team on exciting projects on learning from disagreement, fairness and cross-cultural NLP.)
 
-Before my doctoral studies (i.e., what feels like a lifetime ago), I worked as a Machine Learning Engineer at [DeepSea Technologies](https://www.deepsea.ai/). 
+Before my doctoral studies (i.e., what feels like a lifetime ago), I was a Machine Learning Engineer at [DeepSea Technologies](https://www.deepsea.ai/). 
 In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens (NTUA).
 
 [comment]: <> (link to my sheff interview https://www.sheffield.ac.uk/dcs/postgraduate/phd-profiles/katerina)
