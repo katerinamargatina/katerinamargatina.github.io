@@ -7,6 +7,13 @@
 SRC_BRANCH="master"
 DEPLOY_BRANCH="gh-pages"
 
+# Add this line before running Jekyll
+export BUNDLE_GEMFILE=./Gemfile
+
+# Then run Jekyll
+bundle exec jekyll build
+
+
 USAGE_MSG="usage: deploy [-h|--help] [-u|--user] [-s|--src SRC_BRANCH] [-d|--deploy DEPLOY_BRANCH] [--verbose] [--no-push]"
 
 while [[ $# > 0 ]]; do
