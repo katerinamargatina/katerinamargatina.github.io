@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently an Applied Scientist at Amazon in NYC, working with the [AWS Bedrock](https://aws.amazon.com/bedrock/) Agents team. My main focus is on improving how LLM agents work—making them more useful, reliable, and efficient.
 
-I earned my PhD in Computer Science at the University Sheffield, under the supervision of [Nikos Aletras](http://nikosaletras.com/). I researched active learning algorithms for data efficient LLMs.
+I earned my PhD in Computer Science at the University Sheffield, under the supervision of [Prof. Nikos Aletras](http://nikosaletras.com/). I researched active learning algorithms for data efficient LLMs.
 Along the way, I spent time as a Research Scientist intern at Meta AI (FAIR) in London where I explored the intersection of [in-context and active learning methods for LLMs](https://aclanthology.org/2023.findings-emnlp.334/), and at AWS in NYC where I studied [temporal robustness of LLMs](https://aclanthology.org/2023.eacl-main.211/).
 I also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I worked on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
 
