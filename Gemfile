@@ -13,6 +13,9 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'kramdown-parser-gfm'
     gem 'uri', '0.13.0'
+    gem 'csv'
+    gem 'observer'
+    gem 'faraday-retry'
 
 
 end
