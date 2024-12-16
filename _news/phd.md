@@ -8,4 +8,4 @@ inline: true
 
 ---
 
-Just defended my PhD "Exploring Active Learning Algorithms for Data Efficient Language Models" and got it with no corrections!!! Beyond happy to finally achieve this milestone!
+I just defended my PhD and got it with no corrections!!!🥰🎓

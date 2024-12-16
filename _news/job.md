@@ -8,4 +8,4 @@ inline: true
 
 ---
 
-Life update! Just joined AWS as an Applied Scientist! 
+Life update! I joined AWS Bedrock as an Applied Scientist working in LLM Agents.🤖

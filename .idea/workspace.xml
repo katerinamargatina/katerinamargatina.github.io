@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22573f0e-c9c5-495d-ad9f-9d3ac518d58f" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/_news/best_paper_neurips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/thesis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/bib.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/bib.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/acl23.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/acl23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/athena_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/athena_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/emnlp23.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/emnlp23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/job.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/job.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/meta_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/meta_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/phd.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/phd.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +167,7 @@
       <workItem from="1701861951953" duration="158000" />
       <workItem from="1720919130633" duration="7830000" />
       <workItem from="1725581805723" duration="188000" />
-      <workItem from="1734313293700" duration="2697000" />
+      <workItem from="1734313293700" duration="5418000" />
     </task>
     <task id="LOCAL-00096" summary="update">
       <created>1674832316056</created>

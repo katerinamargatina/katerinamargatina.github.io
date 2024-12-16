@@ -5,21 +5,34 @@
 %--------------------------------------------------------------------------
 % 2024
 %--------------------------------------------------------------------------
-@misc{prism,
-abbr={Arxiv},
-    selected={NeurIPS},
+@misc{thesis,
+abbr={Thesis},
+    selected={true},
+      title={Exploring Active Learning Algorithms for Data Efficient Language Models},
+      author={Katerina Margatina},
+      year={2024},
+      abstract={Supervised learning is based in the premise that models can effectively solve tasks by learning from numerous examples, mapping inputs to outputs through iterative learning. However, contemporary deep learning models often require vast amounts of labeled data, termed training examples, for optimal performance. Unfortunately, not all training examples contribute equally to the learning process, leading to inefficiencies and resource wastage. Active Learning (AL) has emerged as a powerful paradigm for training language models in a data-efficient manner. By iteratively selecting informative unlabeled data points, which are then annotated by humans to form the training set, AL intelligently guides the training process, optimizing data selection for model improvement over random sampling. This thesis investigates various aspects of active learning algorithms for language mod- els, focusing on model training, data selection, in-context learning and simulation. The thesis is structured along four key publications that tackle these topics respectively. The first publication addresses the effective adaptation of pretrained language models for AL, highlighting the importance of task-specific fine-tuning. The second publication introduces a novel acquisition function, Contrastive Active Learning (CAL), which selects contrastive examples to improve AL performance. The third publication explores active learning principles for in-context learning with large language models, emphasizing the selection of informative demonstrations for few-shot learning. Lastly, the fourth publication critically examines the limitations of simulating AL experiments and pro- poses guidelines for future research. Through these contributions, this thesis aims to advance our understanding of AL algorithms for data-efficient language model training.},
+      html={https://etheses.whiterose.ac.uk/35849/},
+      booktitle={PhD thesis, University of Sheffield}
+}
+@inproceedings{prism,
+abbr={NeurIPS},
+    selected={true},
+    award={🏆 Best Paper},
       title={The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models},
       author={Hannah Rose Kirk and Alexander Whitefield and Paul Röttger and Andrew Bean and Katerina Margatina and Juan Ciro and Rafael Mosquera and Max Bartolo and Adina Williams and He He, Bertie Vidgen and Scott A. Hale},
       year={2024},
       arxiv={2404.16019},
       abstract={Human feedback plays a central role in the alignment of Large Language Models (LLMs). However, open questions remain about the methods (how), domains (where), people (who) and objectives (to what end) of human feedback collection. To navigate these questions, we introduce PRISM, a new dataset which maps the sociodemographics and stated preferences of 1,500 diverse participants from 75 countries, to their contextual preferences and fine-grained feedback in 8,011 live conversations with 21 LLMs. PRISM contributes (i) wide geographic and demographic participation in human feedback data; (ii) two census-representative samples for understanding collective welfare (UK and US); and (iii) individualised feedback where every rating is linked to a detailed participant profile, thus permitting exploration of personalisation and attribution of sample artefacts. We focus on collecting conversations that centre subjective and multicultural perspectives on value-laden and controversial topics, where we expect the most interpersonal and cross-cultural disagreement. We demonstrate the usefulness of PRISM via three case studies of dialogue diversity, preference diversity, and welfare outcomes, showing that it matters which humans set alignment norms. As well as offering a rich community resource, we advocate for broader participation in AI development and a more inclusive approach to technology design.},
       tldr={https://x.com/hannahrosekirk/status/1783470502595440884},
-      blog={https://mlcommons.org/2024/05/prism/}
+      blog={https://mlcommons.org/2024/05/prism/},
+      html={https://openreview.net/forum?id=DFr5hteojx#discussion},
+      booktitle={Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks.}
 }
 %--------------------------------------------------------------------------
 % 2023
 %--------------------------------------------------------------------------
-@misc{margatina2023active,
+@inproceedings{margatina2023active,
 abbr={EMNLP-Findings},
     selected={true},
       title={Active Learning Principles for In-Context Learning with Large Language Models},
@@ -28,9 +41,10 @@ abbr={EMNLP-Findings},
       arxiv={2305.14264},
       abstract={The remarkable advancements in large language models (LLMs) have significantly enhanced the performance in few-shot learning settings. By using only a small number of labeled examples, referred to as demonstrations, LLMs can effectively grasp the task at hand through in-context learning. However, the process of selecting appropriate demonstrations has received limited attention in prior work. This paper addresses the issue of identifying the most informative demonstrations for few-shot learning by approaching it as a pool-based Active Learning (AL) problem over a single iteration. Our objective is to investigate how AL algorithms can serve as effective demonstration selection methods for in-context learning. We compare various standard AL algorithms based on uncertainty, diversity, and similarity, and consistently observe that the latter outperforms all other methods, including random sampling. Notably, uncertainty sampling, despite its success in conventional supervised learning scenarios, performs poorly in this context. Our extensive experimentation involving a diverse range of GPT and OPT models across 24 classification and multi-choice tasks, coupled with thorough analysis, unambiguously demonstrates that in-context example selection through AL prioritizes high-quality examples that exhibit low uncertainty and bear similarity to the test examples.},
       tldr={https://twitter.com/katemargatina/status/1661321935127556097},
+      booktitle={Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023}
 }
 
-@misc{ahmed2023,
+@inproceedings{ahmed2023,
 abbr={EMNLP},
       title={Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?},
       author={Ahmed Alajrami and Katerina Margatina and Nikolaos Aletras},
@@ -38,6 +52,7 @@ abbr={EMNLP},
       arxiv={2310.17271},
       abstract={Understanding how and what pre-trained language models (PLMs) learn about language is an open challenge in natural language processing. Previous work has focused on identifying whether they capture semantic and syntactic information, and how the data or the pre-training objective affects their performance. However, to the best of our knowledge, no previous work has specifically examined how information loss in input token characters affects the performance of PLMs. In this study, we address this gap by pre-training language models using small subsets of characters from individual tokens. Surprisingly, we find that pre-training even under extreme settings, i.e. using only one character of each token, the performance retention in standard NLU benchmarks and probing tasks compared to full-token models is high. For instance, a model pre-trained only on single first characters from tokens achieves performance retention of approximately 90\% and 77\% of the full-token model in SuperGLUE and GLUE tasks, respectively.},
       tldr={https://twitter.com/nikaletras/status/1717915350799437865},
+      booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)}
 }
 
 @inproceedings{margatina2023limitations,
@@ -143,7 +158,7 @@ abbr={ACL},
 
 @inproceedings{xcultural,
 abbr={ACL},
-award={🌍 Theme 🌎},
+award={ 🌍 Theme 🌎},
       title={Challenges and Strategies in Cross-Cultural NLP},
       author={Daniel Hershcovich and Stella Frank and Heather Lent and Miryam de Lhoneux and Mostafa Abdou and Stephanie Brandl and Emanuele Bugliarello and Laura Cabello Piqueras and Ilias Chalkidis and Ruixiang Cui and Constanza Fierro and Katerina Margatina and Phillip Rust and Anders Søgaard},
       year={2022},
@@ -160,7 +175,7 @@ award={🌍 Theme 🌎},
 %--------------------------------------------------------------------------
 @inproceedings{cal,
 abbr={EMNLP},
-award={✨ Oral ✨},
+award={ ✨ Oral ✨},
       title={Active Learning by Acquiring Contrastive Examples},
       author={Katerina Margatina and Giorgos Vernikos
        and Loïc Barrault and Nikolaos Aletras},
