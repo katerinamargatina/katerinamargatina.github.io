@@ -3,6 +3,33 @@
 
 @string{aps = {American Physical Society,}}
 %--------------------------------------------------------------------------
+% 2025
+%--------------------------------------------------------------------------
+@inproceedings{confetti,
+abbr={ACL},
+    selected={true},
+      title={CONFETTI: Conversational Function-Calling Evaluation Through Turn-Level Interactions},
+      author={Tamer Alkhouli and Katerina Margatina and James Gung and Raphael Shu and Claudia Zaghi and Monica Sunkara and Yi Zhang},
+      year={2025},
+      arxiv={2506.01859},
+      abstract={We introduce Conversational Function-Calling Evaluation Through Turn-Level Interactions (CONFETTI), a conversational benchmark1 designed to evaluate the function-calling capabilities and response quality of large language models (LLMs). Current benchmarks lack comprehensive assessment of LLMs in complex conversational scenarios. CONFETTI addresses this gap through 109 human-simulated conversations, comprising 313 user turns and covering 86 APIs. These conversations explicitly target various conversational complexities, such as follow-ups, goal correction and switching, ambiguous and implicit goals. We perform off-policy turn-level evaluation using this benchmark targeting function-calling. Our benchmark also incorporates dialog act annotations to assess agent responses. We evaluate a series of state-of-the-art LLMs and analyze their performance with respect to the number of available APIs, conversation lengths, and chained function calling. Our results reveal that while some models are able to handle long conversations, and leverage more than 20+ APIs successfully, other models struggle with longer context or when increasing the number of APIs. We also report that the performance on chained function-calls is severely limited across the models. Overall, the top performing models on CONFETTI are Nova Pro (40.01%), Claude Sonnet v3.5 (35.46%) and Llama 3.1 405B (33.19%) followed by command-r-plus (31.18%) and Mistral-Large-2407 (30.07%).},
+      pdf={https://aclanthology.org/2025.acl-long.394.pdf},
+      blog={https://www.amazon.science/publications/confetti-conversational-function-calling-evaluation-through-turn-level-interactions},
+      booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics.}
+}
+
+@inproceedings{search,
+    abbr={REALM},
+    selected={true},
+      title={A Study on Leveraging Search and Self-Feedback for Agent Reasoning},
+      author={Karthikeyan K and Michelle Yuan and Elman Mansimov and Katerina Margatina and Anurag Pratik and Daniele Bonadiman and Monica Sunkara and Yi Zhang and Yassine Benajiba},
+      year={2025},
+      arxiv={2502.12094},
+      abstract={Recent works have demonstrated that incorporating search during inference can significantly improve reasoning capabilities of language agents. Some approaches may make use of the ground truth or rely on model’s own generated feedback. The search algorithm uses this feedback to then produce values that will update its criterion for exploring and exploiting various reasoning paths. In this study, we investigate how search and model’s self-feedback can be leveraged for reasoning tasks. First, we explore differences in ground-truth feedback and self-feedback during search for math reasoning. Second, we observe limitations in applying search techniques to more complex tasks like tool-calling and design domain-specific approaches to address these gaps. Our experiments reveal challenges related to generalization when solely relying on self-feedback during search. For search to work effectively, either access to the ground-truth is needed or feedback mechanisms need to be carefully designed for the specific task.},
+      pdf={https://aclanthology.org/2025.realm-1.18.pdf},
+      booktitle={Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025).}
+}
+%--------------------------------------------------------------------------
 % 2024
 %--------------------------------------------------------------------------
 @misc{thesis,
@@ -57,7 +84,6 @@ abbr={EMNLP},
 
 @inproceedings{margatina2023limitations,
 abbr={ACL-Findings},
-    selected={true},
         arxiv={2305.13342},
       title={On the Limitations of Simulating Active Learning},
       author={Katerina Margatina and Nikolaos Aletras},

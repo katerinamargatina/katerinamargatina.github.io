@@ -16,11 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently an Applied Scientist at Amazon in NYC, working with the [AWS Bedrock](https://aws.amazon.com/bedrock/) Agents team. My main focus is on improving how LLM agents work—making them more useful, reliable, and efficient.
+I'm an Applied Scientist at Amazon in NYC, working with the AWS AI Fundamental Research team on Agentic AI. My main focus is on improving how LLM agents work—making them more useful, reliable, and efficient. Previous projects include [multi-agents collaboration](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-announces-general-availability-of-multi-agent-collaboration/), [long-term memory](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/) and evaluation in Amazon Bedrock Agents and currently I am working on the [AWS Security Agent](https://aws.amazon.com/security-agent/).
 
-I earned my PhD in Computer Science at the University Sheffield, under the supervision of [Prof. Nikos Aletras](http://nikosaletras.com/). I researched active learning algorithms for data efficient LLMs.
+I earned my PhD in Computer Science at the University Sheffield, under the supervision of [Prof. Nikos Aletras](http://nikosaletras.com/). I researched [active learning algorithms for data efficient LLMs](https://etheses.whiterose.ac.uk/id/eprint/35849/).
 Along the way, I spent time as a Research Scientist intern at Meta AI (FAIR) in London where I explored the intersection of [in-context and active learning methods for LLMs](https://aclanthology.org/2023.findings-emnlp.334/), and at AWS in NYC where I studied [temporal robustness of LLMs](https://aclanthology.org/2023.eacl-main.211/).
-I also visited the [CoAStaL](https://coastalcph.github.io/) group in the University of Copenhagen, where I worked on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
+I also visited the [CoAStaL](https://coastalcph.github.io/) group at the University of Copenhagen, where I worked on learning from disagreement and [cross-cultural NLP](https://aclanthology.org/2022.acl-long.482/).
 
 [comment]: <> (Hello world.🦋 I am a final year Ph.D. student at the CS dept. at the [University of Sheffield]&#40;https://www.sheffield.ac.uk/dcs&#41;, working on natural language processing & machine learning.)
 
@@ -49,8 +49,6 @@ In my undergrad, I studied [Electrical & Computer Engineering](https://www.ece.n
 [//]: # under the supervision of [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).)
 
 [//]: # In my free time, I enjoy yoga, movies, and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering -- even though I am not good at it! 
-
-[//]: # I've come to realise that it is important to me that my research has a positive impact in the real world, so feel free to reach out if you want to collaborate on cool projects that aim to develop language technologies for social good.🦋
 
 
 [//]: # (I was a member of the [SLP@NTUA](https://slp-ntua.github.io/team/) group and I was supervised by ....am a visiting Ph.D. student at the University of Copenhagen🇩🇰 and specifically at )
